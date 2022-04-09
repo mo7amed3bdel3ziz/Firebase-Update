@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "905549001055",
+    "project_id": "fir-update-exe",
+    "storage_bucket": "fir-update-exe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905549001055:android:a1ab967cbc1eec1b8086ea",
+        "android_client_info": {
+          "package_name": "com.example.firebaseupdateexe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905549001055-ub0hl7kr9gsgtd4tiu5rki63j764a9i5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC08A0EjdNbwCmnwuGGLiH_pvzFANGmtNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905549001055-ub0hl7kr9gsgtd4tiu5rki63j764a9i5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
